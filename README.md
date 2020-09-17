@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pagina de Clima
+
+Deploy : https://serene-knuth-4ef806.netlify.app/
+
+Curso: React, de www.codigoconjuan.com
 
 ## Available Scripts
 
